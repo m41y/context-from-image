@@ -1,0 +1,5 @@
+sklearn
+cv2
+numpy
+sys
+dlib
