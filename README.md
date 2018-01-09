@@ -18,4 +18,3 @@ To use script type in terminal:
 *python cfi.py -y <path to pyyolo> -im <path to image>* 
   
   this will execute script and generate results in "/results" directory. Script outputs are image with bounding boxes around found persons, images of each persons found on image with detected items near them, named after that person if recognition was sucess and .txt file containig list of items detected near each of detected persons.
-
